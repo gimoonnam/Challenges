@@ -1,2 +1,2 @@
-# ChallengesOnAI
-Challenge problems that I have been faced with 
+# Challenges for a simple ML project : Curve classification  
+
