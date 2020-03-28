@@ -3,7 +3,7 @@ Related to Data science and Machine Learning
 
 1. CurveClassification
 
-2. k-Means 
+2. k-Means Clustering
 
 3. withOpenCV(Classification with openCV in C++)
 reference links: 
