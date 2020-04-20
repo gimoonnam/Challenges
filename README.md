@@ -3,11 +3,11 @@ Related to Data science and Machine Learning
 
 1. CurveClassification
 
+2. Regression 
+   -simple/multiple linear regression 
+   -non-linear regression 
+
 2. k-Means Clustering
 
-3. withOpenCV(Classification with openCV in C++)
-reference links: 
-: https://medium.com/@airejie/classification-with-opencv3-c-1-2-6e677689c366
-: https://cinema4dr12.tistory.com/457
+3. Decision tree 
 
-4. Decision tree 
