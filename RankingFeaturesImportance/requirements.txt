@@ -1,0 +1,21 @@
+Required libraries 
+
+1. numpy 
+2. Pandas 
+3. Scipy
+4. Sklearn 
+
+
+Usage: 
+
+* Just run task_ML.ipynb. That it! 
+
+* Before run, make sure that this ipynb file is in the same directory with task_data.csv and figures directory. 
+ 
+* Basically, you can unzip submission_GimoonNam.zip and run task_ML.ipynb. 
+
+* This Python notebook also include all my thought, analysis, and results. 
+
+* Just in case, a PDF conversion of task_ML.ipynb is attached. Please refer that. 
+
+
