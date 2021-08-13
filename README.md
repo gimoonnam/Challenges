@@ -1,4 +1,4 @@
-# DataScienceRelatedStudy
+# Studies of Several Topics on Data Science
 Related to Data science and Machine Learning
 
 1. CurveClassification
