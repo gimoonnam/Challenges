@@ -11,3 +11,4 @@ Related to Data science and Machine Learning
 
 3. Decision tree 
 
+4. Feature Importance (using information gain calculation)
