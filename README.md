@@ -10,13 +10,10 @@ Related to Data science and Machine Learning
 ## 2. Feature Importance 
    * Information gain calculation
 
-## 3. Time-Series Analysis 
-   * Forecasting Problems   
-
-## 4. Digital Signal Processing (Multiclass Classification) 
+## 3. Digital Signal Processing (Multiclass Classification) 
    * Clustering Motion signals 
    * Classification of Several Types of Motion Signals
 
-## 5. CNN 
+## 4. CNN 
    * 1D CNN Using Numpy and Keras 
    * 
