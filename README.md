@@ -1,7 +1,7 @@
 # Studies of Several Topics on Data Science
 Related to Data science and Machine Learning
 
-## 1. Basic Algorithm (BA)  
+## 1. Basic Algorithm 
    * Curve Classification Problems
    * k-Means Clustering
    * Regression Algorithms 
@@ -10,7 +10,7 @@ Related to Data science and Machine Learning
 ## 2. Feature Importance 
    :Information gain calculation
 
-## 3. Time-Series Aanalysis 
+## 3. Time-Series Analysis 
    * Forecasting Problems   
 
 ## 4. Digital Signal Processing (Multiclass Classification) 
