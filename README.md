@@ -1,4 +1,4 @@
-# Studies of Several Topics on Data Science
+# Topical Studies on Data Science
 Related to Data science and Machine Learning
 
 ## 1. Basic Algorithm 
@@ -8,7 +8,7 @@ Related to Data science and Machine Learning
    * Decision tree 
 
 ## 2. Feature Importance 
-   :Information gain calculation
+   * Information gain calculation
 
 ## 3. Time-Series Analysis 
    * Forecasting Problems   
