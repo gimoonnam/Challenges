@@ -1,7 +1,8 @@
 Convolutional Neural Network using Numpy and Keras 
 
-## 1D_CNN 
+## 1D CNN 
 
-1D Convolution using Numpy and Keras
+Basic 1D Convolution using Numpy and Keras
+
 
 
