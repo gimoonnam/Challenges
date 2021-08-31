@@ -16,3 +16,7 @@ Related to Data science and Machine Learning
 ## 4. Digital Signal Processing (Multiclass Classification) 
    * Clustering Motion signals 
    * Classification of Several Types of Motion Signals
+
+## 5. CNN 
+   * 1D CNN Using Numpy and Keras 
+   * 
