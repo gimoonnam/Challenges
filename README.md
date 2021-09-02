@@ -12,7 +12,7 @@ Related to Data science and Machine Learning
 ## 2. Feature Importance 
    * Information gain calculation
 
-## 3. Digital Signal Processing (Multiclass Classification) 
+## 3. Digital Signal Processing (Multiclass Classification using DNN and CNN) 
    * Clustering Motion signals 
    * Classification of Several Types of Motion Signals
 
