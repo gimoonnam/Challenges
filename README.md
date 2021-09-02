@@ -1,4 +1,4 @@
-Hello there! I am Gimoon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="75px">
+Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="75px">
 
 # Topical Studies on Data Science
 Related to Data science and Machine Learning
