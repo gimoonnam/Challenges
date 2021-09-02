@@ -9,7 +9,7 @@ Related to Data science and Machine Learning
    * Regression Algorithms 
    * Decision tree 
 
-## 2. Feature Importance 
+## 2. Feature Importance (using Information Gain)
    * Information gain calculation
 
 ## 3. Digital Signal Processing (Multiclass Classification using DNN and CNN) 
