@@ -1,4 +1,4 @@
-Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="75px">
+Hello there! 
 
 # Topical Studies on Data Science
 Related to Data science and Machine Learning
