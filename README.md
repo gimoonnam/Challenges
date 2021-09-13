@@ -18,4 +18,3 @@ Related to Data science and Machine Learning
 
 ## 4. CNN 
    * 1D CNN Using Numpy and Keras 
-   * 
